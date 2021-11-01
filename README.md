@@ -8,3 +8,4 @@
 | 04  | [JS](notes/04.md)                                 |
 | 05  | [jQuery](notes/05.md)                             |
 | 06  | [Backend Programming language (TCL)](notes/06.md) |
+| 07  | [Design Patterns)](notes/07.md) |
