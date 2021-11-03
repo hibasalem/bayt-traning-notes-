@@ -1,6 +1,6 @@
 # bayt-traning-notes
 
-| --  | Description                                       |
+|     | Description                                       |
 | --- | ------------------------------------------------- |
 | 01  | [Web concepts & OSI](notes/01.md)                 |
 | 02  | [html &css ](notes/02.md)                         |
