@@ -120,6 +120,8 @@ the output is `2` and `ReferenceError : b is not defind `
 ![](./imgs/001.PNG)
 
 that is how scopes formed 
+
+
 ---
 ## types and operators 
 
