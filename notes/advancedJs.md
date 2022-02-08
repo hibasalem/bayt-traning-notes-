@@ -98,7 +98,7 @@ why ?
 when we are asking for a varible it will look for it in the current excution context then it will look to the outter  (reffrence )Lexical Environment in this case its the globel, function b is in the globle level same level as myVar = 1;    
 
 this is called the ***scope chain***   
-![](./000.PNG)
+![](./imgs/000.PNG)
 
 ```
 function a() {
@@ -117,7 +117,7 @@ b();
 
 the output is `2` and `ReferenceError : b is not defind `
 
-![](./001.PNG)
+![](./imgs/001.PNG)
 
 that is how scopes formed 
 ---
