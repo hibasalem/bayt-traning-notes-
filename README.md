@@ -10,3 +10,7 @@
 | 06  | [Backend Programming language (TCL)](notes/06.md) |
 | 07  | [Design Patterns](notes/07.md)                    |
 | 08  | [Best Practices](notes/08.md)                     |
+| 09  | [SEO](notes/seo.md)                               |
+| 10  | [Open Graph)](notes/og.md)                        |
+| 11  | [regex](notes/regex.md)                           |
+| 12  | [advanced Javascripts](notes/advancedJs.md)       |
