@@ -14,3 +14,5 @@
 | 10  | [Open Graph](notes/og.md)                         |
 | 11  | [Regex](notes/regex.md)                           |
 | 12  | [Advanced Javascripts](notes/advancedJs.md)       |
+| 13  | [SOLID Principles](notes/SOLIDPrinciples.md)       |
+.
